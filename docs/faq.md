@@ -25,3 +25,8 @@ To host your own instance of LinkStack, you will need a web server running at le
 
 No problem! We also have a Docker version available.
 Do you want to use your own Domain or want a private instance? Sponsor LinkStack on GitHub and get free access to your own private instance.
+
+
+## I'm getting error messages. What do they mean?
+
+Check [discussions page here](https://github.com/orgs/LinkStackOrg/discussions)
